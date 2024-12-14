@@ -1,8 +1,8 @@
 # 第六章 树与二叉树
 
-> **姓名：黄昌斌**
+> **姓名：****
 >
-> **学号：2023140902005**
+> **学号：****
 >
 > **Github仓库： https://github.com/Rain0832/Data_Structure_Course.git**
 
