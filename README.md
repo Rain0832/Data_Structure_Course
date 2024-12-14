@@ -6,7 +6,7 @@ Status: Done
 ### Task 2: Stack and Queue Computer Experiment
 Status: Done
 ### Task 3: Binary Tree Computer Experiment
-Status: To do
+Status: Done
 ### Task 4: Graph Structure Computer Experiment
 Status: To do
 
@@ -18,6 +18,6 @@ Status: To do
 ### 任务2：栈与队列上机实验
 状态：已完成
 ### 任务3：属于二叉树上机实验
-状态：待完成
+状态：已完成
 ### 任务4：图结构上机实验
 状态：待完成
